@@ -94,3 +94,6 @@
 [submodule "plugins/protondb-library"]
 	path = plugins/protondb-library-badges
 	url = https://github.com/Yohlo/protondb-library-badges
+[submodule "plugins/auto-claim"]
+	path = plugins/auto-claim
+	url = https://github.com/BambooFury/Auto-Claim
